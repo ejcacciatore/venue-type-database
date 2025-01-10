@@ -1,0 +1,7 @@
+#requirement file
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
